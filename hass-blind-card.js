@@ -56,9 +56,7 @@ class BlindCard extends HTMLElement {
             
             </div>
           </div>
-          <div class="sc-blind-middle" style="flex-direction: ` + (buttonsPosition == 'right' ? 'row-reverse': 'row') + `;">
-          //to top 
-          //to bottom 
+          <div class="sc-blind-middle" style="flex-direction: ` + (buttonsPosition == 'right' ? 'row-reverse': 'row') + `;"> 
             <div class="sc-blind-selector">
               <div class="sc-blind-selector-picture">
                 <div class="sc-blind-selector-slide"></div>
