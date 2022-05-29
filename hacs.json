@@ -2,5 +2,5 @@
     "name": "Blind Card",
     "filename": "hass-blind-card.js",
     "render_readme": true,
-    "homeassistant": "2022.5.5"
+    "homeassistant": "2022.5.6"
 }
