@@ -281,7 +281,7 @@ class BlindCard extends HTMLElement {
   }
 
   // The height of your card. Home Assistant uses this to automatically
-  // distribute all cards over the available columns.
+  // distribute all cards over the available columns12.
   getCardSize() {
     return this.config.entities.length + 1;
   }
